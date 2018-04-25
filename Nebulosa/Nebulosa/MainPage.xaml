@@ -5,7 +5,10 @@
              x:Class="Nebulosa.MainPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms - Nebolusa Time!"
+            <Label Text=" Nebolusa Time!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Label Text=" beyond the multiverse!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

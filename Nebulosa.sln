@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nebulosa.Android", "Nebulos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nebulosa.iOS", "Nebulosa\Nebulosa.iOS\Nebulosa.iOS.csproj", "{F7AC0618-86F3-4870-9B96-91B180BF6398}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{73280008-35FD-4DEC-8807-2024BAF0C330}"
+	ProjectSection(SolutionItems) = preProject
+		appcenter-pre-build.sh = appcenter-pre-build.sh
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Nebulosa\Nebulosa\Nebulosa.projitems*{2f8fcf95-8e75-46ea-9ff0-24b335cb5a3d}*SharedItemsImports = 4
