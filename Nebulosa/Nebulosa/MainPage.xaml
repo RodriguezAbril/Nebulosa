@@ -8,6 +8,12 @@
             <Label Text=" Nebolusa Time!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Image HorizontalOptions="Center" Source="saturn.jpg"
+                           VerticalOptions="Center"
+                           WidthRequest="95" HeightRequest="95"
+                           Aspect="AspectFill"
+                           x:Name="CircleImageAvatar"
+                           />
             <Label Text=" beyond the multiverse!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />

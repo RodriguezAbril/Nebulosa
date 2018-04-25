@@ -56,3 +56,4 @@ C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.A
 C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\bin\Debug\Microsoft.AppCenter.Crashes.Android.Bindings.dll
 C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\bin\Debug\Microsoft.AppCenter.Crashes.dll
 C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\bin\Debug\Microsoft.AppCenter.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\obj\Debug\res\drawable\saturn.jpg
