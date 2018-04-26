@@ -49,9 +49,13 @@ C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.A
 C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\obj\Release\res\drawable\icon.png
 C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\obj\Release\R.cs.flag
 C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\obj\Release\uploadflags.txt
+C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\obj\Release\res\drawable\saturn.jpg
 C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\bin\Release\Nebulosa.Android.dll.mdb
 C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
 C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\obj\Release\android\assets\Nebulosa.Android.dll.mdb
 C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\obj\Release\Nebulosa.Android.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\obj\Release\res\drawable\fondo.jpg
+C:\Users\user\Documents\Visual Studio 2017\Projects\Nebulosa\Nebulosa\Nebulosa.Android\obj\Release\res\drawable\presto.jpg
